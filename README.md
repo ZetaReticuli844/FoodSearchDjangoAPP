@@ -15,7 +15,7 @@ FoodSearch <-(most orignal name in the world) is a web application with a Django
 
 1. Clone the repository:
     ```bash
-    https://github.com/ZetaReticuli844/FoodSearchDjangoAPP.git
+    git clone https://github.com/ZetaReticuli844/FoodSearchDjangoAPP.git
     ```
 
 2. Create a Python virtual environment:
