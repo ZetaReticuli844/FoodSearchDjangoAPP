@@ -28,9 +28,6 @@ FoodSearch <-(most orignal name in the world) is a web application with a Django
 
 3. Install dependencies:
     ```bash
-    cd backend
-    ```
-    ```bash
     make install
     ```
 
